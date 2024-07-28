@@ -1,6 +1,13 @@
 # linkedin-scraper
 Gets login to LinkedIn. Send LinkedIn Connection and Message. Endorse LinkedIn Profile
 
+## Installation
+```
+pip3 install selenium
+pip3 install argparse
+pip3 install beautifulsoup4
+```
+
 ## Usage
 ```
 python main.py --is_manual_login 0 --linkedin_email your_linkedin_email@example.com --linkedin_password your_linkedin_password --linkedin_profile_to_scrap "https://www.linkedin.com/in/profile-handle/" --operation connect --message none
