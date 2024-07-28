@@ -14,6 +14,6 @@ python main.py --is_manual_login 0 --linkedin_email your_linkedin_email@example.
 * --message: If --operation=message then mention what message you want to send. Otherwise, pass "none"
 
 ### Debuggin on VSCode
-Please put the following arguments in your laungh.json
+Please put the following arguments in your launch.json
 ![IMG-20240531-WA0000](https://github.com/user-attachments/assets/5a4988ad-e909-4f7e-b5d8-227b6b947af4)
 
