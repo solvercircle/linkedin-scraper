@@ -221,8 +221,8 @@ manual_login = False
 if cmd_manaual_login == "1":
     manual_login = True
 
-li_email = cmd_email #"rangamatitours1@gmail.com"
-li_password = cmd_password #"green321"
+li_email = cmd_email 
+li_password = cmd_password
 
 
 #options = Options()
